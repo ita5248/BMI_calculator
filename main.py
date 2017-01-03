@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 import tkinter.messagebox
 
-
+# komentarz
 
 def doNothing():
     print("ppp")
