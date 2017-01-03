@@ -3,7 +3,6 @@ from tkinter import ttk
 import tkinter.messagebox
 
 
-
 def doNothing():
     print("ppp")
 
